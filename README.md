@@ -1,6 +1,7 @@
 ### Hi there I am Adrián Peñalver👋
 
-[Descripción de la imagen](images/banner.png)
+![Descripción de la imagen](banner.png)
+
 <!--
 **apenfe/apenfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
