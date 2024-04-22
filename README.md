@@ -12,11 +12,21 @@
 
 ## My current Langs
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chivo+Mono&color=f8005b&size=20&lines=JAVA,;SQL+and;ARDUINO;)](https://git.io/typing-svg)
+- Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+- Arduino <img src="https://img.icons8.com/fluent/48/000000/arduino.png"/>
+- SQL <img src="https://img.icons8.com/ios/50/000000/database-export.png"/>
+
+## My future Langs
+
+- JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+- PHP <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
+- CSS <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+- HTML <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+- Laravel <img src="https://img.icons8.com/ios/50/000000/laravel.png"/>
+- Swing <img src="https://img.icons8.com/officel/40/000000/java-eclipse.png"/>
 
 ## My statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apenfe&theme=tokyonight&layout=compact" alt="apenfe top Langs" width="500px">
 </div>
-
