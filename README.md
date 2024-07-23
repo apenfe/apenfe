@@ -1,6 +1,6 @@
 ### Hi there I am Adrián Peñalver👋
 
-![Descripción de la imagen](images/banner.png)
+![Descripción de la imagen](images/banner2.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chivo+Mono&color=f8005b&size=20&lines=Industry+4.0+and;+Marine+Electronics+Specialist.;Struggling+to+break+into+the+IT;+applying+artificial+intelligence;to+these+fields.)](https://git.io/typing-svg)
 
 # 💫 About Me:
