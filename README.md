@@ -3,6 +3,8 @@
 ![Descripción de la imagen](images/banner2.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chivo+Mono&color=f8005b&size=20&lines=Industry+4.0+and;+Marine+Electronics+Specialist.;Struggling+to+break+into+the+IT;+applying+artificial+intelligence;to+these+fields.)](https://git.io/typing-svg)
 
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=adrian-penalver" target="_blank">Follow on LinkedIn</a>
+
 # 💫 About Me:
 🚀 Journeying Through: Currently, I'm studying the vocational training in DAW (Web Application Development) and computer engineering.<br>
 🌐 Team Ups: Looking for new challenges and collaborators for some of my projects, and if I can, help with yours.<br>
